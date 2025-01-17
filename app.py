@@ -357,8 +357,8 @@ def send_notification():
         # Set up the SMTP server
         smtp_server = "smtp.gmail.com"
         smtp_port = 587
-        sender_email = "miniprojectreq2@gmail.com"  # Replace with your email
-        sender_password = "huphsqcjieewyslv"
+        sender_email = "miniprojectxxxx@gmail.com"  
+        sender_password = "xxxxxxxx"
 
         # Create the email message
         msg = MIMEMultipart()
